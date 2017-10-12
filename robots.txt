@@ -1,1 +1,1 @@
-Sitemap: https://jwheatp.github.io/codecamp/sitemap.xml
+Sitemap: https://jwheatp.github.io//codecamp/sitemap.xml
